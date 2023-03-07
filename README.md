@@ -27,3 +27,5 @@
 - Clipper
 - Crypto-Clipper
 - Clipper
+- bitcoin clipper
+- monero clipper
