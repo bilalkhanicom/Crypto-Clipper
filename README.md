@@ -1,4 +1,7 @@
 # Crypto-Clipper
+![](https://img.shields.io/github/stars/ApfelsaftDevs/Crypto-Clipper?style=for-the-badge&color=yellow)
+![](https://img.shields.io/github/forks/ApfelsaftDevs/Crypto-Clipper?style=for-the-badge)
+![](https://img.shields.io/badge/LICENSE-GLPv3-brightgreen?style=for-the-badge)
 ![bitcoin-banner-weltweites-netzkonzept-der-goldenen-digitalen-währung-cryptocurrency-futuristischen-geldtechnologie-vektorfahne-206736553](https://user-images.githubusercontent.com/107504561/223456781-4aa6af66-9aed-41fb-b98e-be7f87c170b0.jpg)
 
 ## How to use
