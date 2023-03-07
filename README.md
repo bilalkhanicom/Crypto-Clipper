@@ -23,9 +23,13 @@
 **- MORE FEATURES COMMING SOON!**
 
 ## EDUCATIONAL PURPOSES ONLY
+
+## Clippers
 - Crypto-Clipper
 - Clipper
 - Crypto-Clipper
 - Clipper
 - bitcoin clipper
 - monero clipper
+- ethereum clipper
+- litecoin clipper
