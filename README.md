@@ -23,8 +23,7 @@
 **- MORE FEATURES COMMING SOON!**
 
 ## EDUCATIONAL PURPOSES ONLY
-- 
-Crypto-Clipper
-
--
-Crypto-Clipper
+- Crypto-Clipper
+- Clipper
+- Crypto-Clipper
+- Clipper
