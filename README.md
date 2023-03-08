@@ -11,7 +11,7 @@
 </div> 
 
 ## How to use
-**1. Download Python3**
+**1. Download Python**
 
 **2. Run the Builder.py to build the Clipper**
 
