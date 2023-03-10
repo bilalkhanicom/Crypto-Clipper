@@ -22,7 +22,7 @@
 **5. Send the file created in your folder to your victim**
 
 ## features
-**- Runs on startup**
+**- Runs on startup **
 
 **- Unkillable procces**
 
